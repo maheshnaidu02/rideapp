@@ -16,7 +16,7 @@ import RideConfirmation from "./components/RideConfirmation";
 import LiveTracking from "./components/LiveTracking";
 import PaymentPage from "./components/PaymentPage";
 import RideHistory from "./components/RideHistory";
-import Profile  from "./components/profile";// ✅ Add this import
+import Profile  from "./components/Profile";// ✅ Add this import
 
 
 // ✅ NEW: OTP Components
