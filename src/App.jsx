@@ -10,7 +10,7 @@ import {
 import Navbar from "./components/Navbar";
 import SplashScreen from "./components/SplashScreen";
 import Login from "./components/Login";
-import Signup from "./components/signup";
+import Signup from "./components/Signup";
 import HomeScreen from "./components/HomeScreen";
 import RideConfirmation from "./components/RideConfirmation";
 import LiveTracking from "./components/LiveTracking";
